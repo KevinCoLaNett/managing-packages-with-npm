@@ -16,5 +16,6 @@
 	},
 	"author": "John Kevin",
 	"description": "a web app for my freecodecamp courses - Back End Development and APIs",
-	"keywords": [ "freecodecamp", "ojt", "certification" ]
+	"keywords": [ "freecodecamp", "ojt", "certification" ],
+	"license": "MIT"
 }
